@@ -8,18 +8,10 @@ currency = "XDT"
 name = "BlinxDT"
 desc = "Blinx Digital Technologies is a cloud-enabled blockchain payment system prioritizing innovation, interoperability, and efficiency in the financial sector. By combining cloud-like infrastructure with a secure blockchain foundation and adhering to ISO 20022 standards, we facilitate secure institutional university and healthcare transfers under a unified payment network across institutional dining & merchant services, instilling confidence in financial transactions.
 "
-icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
+icon = "https://github.com/XDT-Blinx-Digital-Technologies/xdt/blob/main/IMG_6456.jpeg"
 
 [[TOKENS.WEBLINKS]]
-url = "https://casinocoin.im"
-type = "website"
-title = "Official Website"
+url = "https://xdtxrp.org"
+type = "Blinx Digital Technologies"
+title = "XDT (Blinx Digital Technologies)"
 
-[[TOKENS.WEBLINKS]]
-url = "https://casinocoin.info"
-type = "website"
-title = "Token Info Dashboard"
-
-[[TOKENS.WEBLINKS]]
-url = "https://twitter.com/CasinoCoin"
-type = "socialmedia"
